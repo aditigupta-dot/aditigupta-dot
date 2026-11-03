@@ -8,6 +8,11 @@
   <a href="https://www.linkedin.com/in/aditi-gupta-2785213a6/">LinkedIn</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/aditigupta-dot?tab=repositories">Projects</a>
+  </p>
+<p align="center">
+  <a href="https://aditigupta-dot.github.io/aditigupta-dot/">
+    🌐 View My Portfolio
+  </a>
 </p>
 
 ## About
